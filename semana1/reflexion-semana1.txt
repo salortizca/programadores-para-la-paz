@@ -1,0 +1,13 @@
+¿Qué relación encuentras entre el uso responsable de la información en internet, 
+la participación ciudadana y la organización del trabajo técnico con herramientas como Git?
+
+El código abierto es el mejor caso de éxito del uso responsable y en pro 
+de la colectividad quetenemos en la actualidad, involucra organización 
+de trabajo técnico, participación de
+personas con un criterio o idea en común, 
+que usualmente beneficia a personas alrededor 
+de todo el mundo, que sólo deben tener algo de conocimiento base y,
+ de resto, la documentación en internet y el uso responsable de 
+ recursos como IA termina de potenciar cualquier idea
+ individual gracias al acceso a internet y
+ masificación de dispositivos como celulares, computadores y tablets.
