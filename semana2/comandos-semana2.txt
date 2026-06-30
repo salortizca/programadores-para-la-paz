@@ -1,0 +1,15 @@
+Los comandos que he usado son, por ejemplo:
+
+git push
+pwd
+ls
+git add .
+git commit -m "reflex de la semana 2"
+mkdir semana2
+cd semana2
+touch preguntas-semana2.txt
+touch comandos-terminal.txt
+touch reflexion-semana2.txt
+code preguntas-semana2
+code comandos-terminal.txt
+code reflexion-semana2.txtß
