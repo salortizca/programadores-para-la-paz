@@ -1,0 +1,5 @@
+¿Por qué es importante para un desarrollador saber usar la terminal para navegar y organizar archivos dentro de un proyecto?
+
+Conocer como funciona la terminal de comandos sea de linux, mac o shell en el caso de windows es esencial para moverse entre los archivos, 
+poder editarlos con nano o vim, eliminarlos y demás, ya que esta manipulación permite hacer un adecuado control de versiones y por ende, tener una
+base sólida de las bases para las buenas prácticas en programación.
