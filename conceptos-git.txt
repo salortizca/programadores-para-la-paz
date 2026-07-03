@@ -1,0 +1,4 @@
+Repositorio: Es el sitio local o en línea donde son alamcenadas carpetas, archicos y elemntos deseados sobre una aplicación, proyecto o elemento del cual queremos conservar sus cambios.
+
+Commit: traduce literalmente "aporte", y es la modificación que hace una programadora a un respositorio.
+Push: comando "git push", es el que hace el envío desde lo local al servidor en el que se aloja el repositorio.
