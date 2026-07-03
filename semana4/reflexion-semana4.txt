@@ -1,0 +1,8 @@
+¿Por qué es importante que las comunidades o iniciativas ciudadanas puedan construir herramientas tecnológicas propias utilizando tecnologías abiertas como Node.js?
+
+El código abierto es de los más grandes avances de la humanidad. 
+
+El lema de Google Académico es "a hombros de gigantes", y precisamente una herramienta como node.js es esencial para la construcción
+colectiva de un mundo digital que democratice el conocimiento, puesto que, la juntanza, la comunidad y el cuidado son aquello que 
+nos ha hecho civilizarnos, por ende, el poder usar internet para seguir en conexión y atravesar fronteras territoriales por medio de
+comunidades digitales y código abierto que nos permita crear mundos a la medida de nuestros sueños es esencial.
