@@ -1,0 +1,12 @@
+Pregunta 1: ¿Qué es JSON?
+mirepuesta: B. Un formato de intercambio de datos usado entre aplicaciones
+JSON (JavaScript Object Notation) es un formato ligero de texto para representar datos estructurados, usado comúnmente para enviar y recibir información entre un cliente y un servidor.
+Pregunta 2: ¿Qué permite express.json() en una aplicación Express?
+mirepuesta: B. Leer datos enviados en formato JSON en una petición
+express.json() es un middleware que le dice a Express que interprete el cuerpo (body) de las peticiones entrantes cuando vienen en formato JSON, y lo convierta en un objeto de JavaScript accesible.
+Pregunta 3: ¿Dónde se encuentran los datos enviados en una petición POST cuando usamos Express?
+mirepuesta: B. req.body
+Cuando se envían datos en una petición POST (por ejemplo desde un formulario o una API), Express los coloca en req.body, siempre y cuando se haya usado el middleware adecuado (como express.json() o express.urlencoded()).
+Pregunta 4: ¿Cuál de las siguientes opciones representa correctamente un objeto JSON?
+mirepuesta: C. { "nombre": "Juan" }
+En JSON válido, tanto las claves como los valores de tipo texto deben ir entre comillas dobles. Las opciones A, B y D no siguen la sintaxis correcta de JSON.
