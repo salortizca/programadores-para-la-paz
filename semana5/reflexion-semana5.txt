@@ -1,0 +1,7 @@
+¿Cómo podrían las APIs ayudar a que las comunidades compartan información, reportes o alertas de manera organizada?
+
+Puede existir una API que conecte un LLM o SLM especializado en verificación de fuentes y de veracidad de información
+para apoyar a personas a las que se les dificulta reconocer cuándo una noticia, imagen o fuente no es real.
+Existen ya API dedicadas a detectar bots y bloquear sus intentos de publicar y demás, aunque en algunas redes sociales pasan 
+dichos filtros fácilmente y no es tan sencillo acabar de manera efizas con cientos de miles o millones de bots actuando   
+en línea de manera simultánea.

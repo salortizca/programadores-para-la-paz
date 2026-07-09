@@ -1,0 +1,4 @@
+Esta ruta recibe un mensaje de algunx usuarix y luego contesta con un JSON que reporta haber recibido el mensaje. 
+Podría servir para reportar distintas situaciones que viva un colectivo, sea una JAC (Junta de Acción Comunal) que
+tenga acceso a alguna plataforma de reporte de incidentes, puede usarse para actualizar el estado de actividades o 
+novedades a lo largo de la semana con algún proyecto, entre otras situaciones. 
