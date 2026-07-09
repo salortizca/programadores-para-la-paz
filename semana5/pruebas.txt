@@ -1,0 +1,8 @@
+http://localhost:3000
+lo que hace es mostrarme un mensaje donde dice que si está conectado c:
+
+http://localhost:3000/saludo
+Me dice holi
+
+http://localhost:3000/mensaje/juan
+Me dice hola pero yo no soy juan y no me gusta el merequetengue
