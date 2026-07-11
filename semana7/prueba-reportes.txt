@@ -1,0 +1,2 @@
+Al realizar el POST en Thunder Client con los 2 datos requeridos de, por ejemplo, problema de infraestrucutra y alumbrado público, me muestra que se guardó con el número de id del reporte.
+Al dar en GET extraigo la información del servidor y veo que mi ejemplo quedó guardado y etiquetado adecuadamente. Feli

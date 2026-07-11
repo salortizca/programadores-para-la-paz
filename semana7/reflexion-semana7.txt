@@ -1,0 +1,6 @@
+¿Por qué es importante que las comunidades puedan registrar y consultar reportes o incidencias en una plataforma tecnológica?
+
+Soluciones en tiempo real no siempre son posibles, sin embargo, cuando exsite la oportunidad de pedir ayuda
+o comunicar algún incidente, el registro y la consulta accesibles son esenciales, para lograr una trazabilidad, recolección
+la obtención de datos que permitan tomar las medidas requeridas y, además, tener una trazabilidad de
+hechos ocurridos en la cotidiandidad de la comundidad y que deban ser reportados.
