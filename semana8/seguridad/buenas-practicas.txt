@@ -1,0 +1,3 @@
+Practica 1. Usar contrasenas con caracteres alfanumericos, mayusculas y algun caracter especial
+Practica 2. No copiar credenciales en documentos publicos
+Practica 3. No ingresar credenciales en sitios que tengan cifrado http, es muy vulnerable

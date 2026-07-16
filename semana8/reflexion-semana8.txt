@@ -1,0 +1,7 @@
+¿Por qué la seguridad digital es importante para proteger plataformas tecnológicas que usan comunidades o procesos participativos?
+
+La filtración de información es un riesgo latente en cualquier 
+comunidad digital, con lo cual, la seguridad digital, como no compartir contraseñas,
+tener un buen cifrado, entre otros, son estrategias de mitigación 
+muy importantes para garantizar la seguridad de la comunidad, en 
+especial cuando se manejan datos sensibles en las plataformas.

@@ -1,0 +1,13 @@
+Qué información muestra cada comando.
+Por qué es útil conocer información del 
+sistema cuando se administra un servidor.
+
+uname -a 
+Me muestra la información del Sistema de mi computador, núcleo de mi sistema :3
+
+Es útil conocer la referencia, conocer sus vilnerabilidades y tenerlas en cuenta.
+
+whoami
+Es el usuario bajo el que estoy realizando actividades en mi sistema operativo
+
+Es bueno para saber qué permisos puedo tener

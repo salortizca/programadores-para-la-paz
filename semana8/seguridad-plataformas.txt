@@ -1,0 +1,7 @@
+Buenas prácticas para plataformas comunitarias:
+
+1. Garantizar documentación e información de cómo acceder a todas las personas interesadas
+2. Limitar los permisos de acuerdo a los perfiles dados en la comunidad
+3. Cifrar adecuadamente la plataforma, que esté bien alojada
+4. Registrar los ingresos a la plataforma
+5. Garantizar que exista el cambio de contraseña de manera seguridad
