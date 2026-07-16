@@ -1,0 +1,21 @@
+Tareas que haría primero:
+
+1. Como docente adscrita al proyecto comunitario quiero revisar la cantidad
+   de personas inscritas a una actividad y sus sugerencias.
+2. Como miembro de la comunidad quiero revisar el estado de mi inscripción
+   y mi docente asignada.
+
+¿Por qué son las más importantes?
+Porque ambas dependen de tener primero un sistema básico de inscripciones
+funcionando (registrar quién se inscribió a qué actividad). Sin esa base,
+ni la docente puede ver inscritos ni la comunidad puede consultar su estado.
+Es la funcionalidad núcleo de la que dependen las demás, incluyendo el
+seguimiento de avance de actividades que necesita la encargada del proyecto.
+
+Definición de "terminado":
+- La ruta para consultar inscritos y sugerencias responde correctamente
+  con datos reales de prueba.
+- Se validó que una persona pueda ver su propio estado de inscripción sin
+  ver la información de otros inscritos.
+- Quedó registrado en Git con un commit describiendo la funcionalidad
+  agregada, para que el equipo pueda darle seguimiento.

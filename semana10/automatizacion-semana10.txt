@@ -1,0 +1,14 @@
+Evento: una persona de la comunidad completa su inscripción a una actividad
+a través de la ruta POST /inscripciones.
+
+Acción: n8n detecta la nueva inscripción y envía un mensaje automático a
+un grupo de Telegram del equipo (docentes y encargada del proyecto).
+
+Mensaje: "Nueva inscripción registrada para la actividad 'Cartografías 
+Corporales - Cómo nuestro cuerpo puede ser un mapa de emociones'. 
+Cupos actuales: 12/20."
+
+Información que no debe enviarse: nombre completo de la persona inscrita,
+número de documento, dirección, teléfono, edad, o cualquier otro dato
+personal. Solo se comparte el nombre de la actividad y el número de
+cupos ocupados, para proteger la privacidad de los inscritos.

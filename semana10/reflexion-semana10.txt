@@ -1,0 +1,8 @@
+¿Por qué las metodologías ágiles, la automatización y canales como Telegram pueden ayudar a organizar mejor una comunidad o un proceso de participación ciudadana?
+
+Telegram es una red social con mejor cifrado y la comunicación en
+esta App es usada principlamente para llegar a los teléfonos móviles de personas 
+que hacen parte de una comunidad digital para así, tener actualizaciones
+accesibles, conocimiento general sobre lo que sucede y en caso de
+anomalías, garantizar que haya una acción rápida después de la
+notificación.
