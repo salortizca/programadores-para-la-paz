@@ -1,0 +1,4 @@
+Evento: Nueva inscripción a curso presencial
+Mensaje: "Nuevx usuarix inscritx al curso ___"
+Información que no debe enviarse: credenciales, correo,
+datos personales o información privada o sensible en general.

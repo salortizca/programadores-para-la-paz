@@ -1,0 +1,12 @@
+Petición en 3 clics
+
+Flujo de Ejemplo:
+
+1. Una ciudadana se inscribe en un curso disponible de su interés
+2. La inscripción queda guardada en la base de datos
+3. El sistema cuenta las personas inscritas
+4. Cuando se alcanza un número mínimo de personas inscritas (ej: cupo 
+mínimo o completo), una notificación llega al Telegram del equipo dirigente
+5. El equipo dirigente revisa la notificación y confirma la apertura o cierre
+de inscripciones del curso vía correo o mensaje interno en la plataforma
+
