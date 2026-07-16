@@ -1,0 +1,13 @@
+¿Por qué es importante que las plataformas tecnológicas que usan las comunidades funcionen de manera estable y segura en un servidor?
+
+Porque en la teoría de los datos, uno de los pilares fundamentales es, 
+por ejemplo, garantizar el acceso a la información, o llamado de otra
+manera, la democratización del conocimiento; en ese sentido que las 
+personas de una comunidad tengan disponible la información en todo momento
+es esencial y para ello, tener un servidor estable y seguro es esencial.
+Por otro lado, hay datos con diferentes categorías y si la comunidad digital
+posee datos snensibles, hay que portegerlos contra ataques cibernéticos de
+distintas clases, ya que una filtración puede ser muy perjudicial. Por
+ejemplo, si el servidor contiene las direcciones de viviendas de líderes o 
+lideresas sociales que se encuentran bajo amenazas o con situaciones de 
+seguridad complejas, una filtración puede significar vidas en alto riesgo.

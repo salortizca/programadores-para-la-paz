@@ -1,0 +1,33 @@
+Sistema operativo
+Un sistema operativo es el intermediario entre hardware y software. 
+El SO gestiona y coordina el uso de los recursos de un dispositivo (en este caso un compu),
+lo cual significa que administra la memoria, coordina el funcionamiento
+de dispositivos periféricos, controla el acceso a los archivos y mantiene 
+la seguridad del sistema.
+
+Node.js
+Node.js es un entorno de ejecución de JavaScript diseñado para ejecutar código en el
+lado del servidor. Permite ejecutar código JavaScript fuera de un navegador web, 
+transformando el código JavaScript en código de máquina eficiente y 
+rápido, lo cual permite construir aplicaciones de servidor altamente escalables.
+Es asíncrono, construido sobre motor V8 y orientado a eventos.
+
+Aplicación server.js
+
+
+conceptualmente, server es una función que acepta opciones y otras funciones. 
+Lo pesado está ya implementado, con lo cual, el 
+enfoque como programadora es en el proyecto que estoy desarrollando.
+
+Puerto
+Un router o puerto es una función que le dice al servidor cómo manejar
+cada solicitud. Son un tipo específico de middleware que envuelven la lógica
+y actúa como un gateway (puerta de enlace).
+
+Logs
+Un log o registro se refiere a la información que un SO, App, servicio o 
+dispositivo deja por escrito para constatar una actividad, error, evento, acceso 
+o cambio.
+Un log bien hecho responde a preguntas sobre fecha y hora, origen, servicio, nivel de
+severidad, usuarix, IP, mensaje, código de error, proceso e identificador
+de evento o transacción.

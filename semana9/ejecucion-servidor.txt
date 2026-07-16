@@ -1,0 +1,8 @@
+Qué ocurre cuando ejecutas node server.js.
+Va a una pantalla con fondo blanco y aparece el mensaje que puse de confirmación exitosa de ejecución del servidor.
+
+Qué mensaje aparece en la terminal.
+Aparece el mensaje que coloqué: "Servidor ejecutándose en puerto 3000"
+
+Qué sucede cuando visitas la ruta /estado.
+Aparece entre comillas los valores especificados en esa ruta con GET
