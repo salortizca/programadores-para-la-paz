@@ -1,0 +1,11 @@
+¿Por qué una plataforma tecnológica que promueve participación ciudadana debe tener base de datos, autenticación de usuarios y protección de información?
+
+Una base de datos como soporte para almacenar registros de diferente 
+índole es esencial para garantizar una trazabilidad de las acciones 
+ejecutadas por diferentes usuarixs, además, para poder saber quién 
+ha realizado qué debe existir una adecuada autenticación, así en 
+caso de algún error o evento inesperado se puede buscar Información
+a través de la bd, además, el mínimo privilegio bien implementado
+reduce el riesgo de mal uso de la información, elemento clave para
+una buena convivencia digital que propenda por una adecuada
+convivencia cotidiana.

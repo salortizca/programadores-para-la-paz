@@ -1,0 +1,18 @@
+Qué es el login en una aplicación.
+Por qué algunas rutas deben estar protegidas.
+Qué tipo de información no debería exponerse públicamente.
+
+El login es la pantalla de inicio de una sesión de usuarixs, 
+donde deben ingresar sus credenciales para identificarse y, 
+de acuerdo a ello, acceder a los permisos concedidos desde 
+admin o superusuarix.
+
+Algunas rutas deben estar protegidas puesto que pueden 
+contener información sensible, podrían permitir realizar registros
+a quienes solo deberían poder consultar o acceder a datos que
+no deben ser de conocimiento público.
+
+Los datos sensibles en general no deben exponerse públicamente,
+entre ellos, documento de identidad, historia clínica de pacientes,
+dirección de residencia o trabajo, además, otros datos como tokens,
+claves de API, credenciales, entre otras.

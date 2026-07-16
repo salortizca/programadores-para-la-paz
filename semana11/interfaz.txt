@@ -1,0 +1,12 @@
+La interfaz debería tener un apartado donde se pueda solicitar o registrar
+el interés por un curso o área del conocimiento
+
+En la sección debida, se deben encontrar las solicitudes anteriores
+y las temáticas de interés
+
+En cada solicitud puede estar un botón de "sumarse a esta solicitud" 
+y cuántas personas más hay interesadas en aprender dicha habilidad
+o conocimiento
+
+la interfaz debe ser fácil de navegar, apoyar y al mismo tiempo, 
+anonimizar datos para no mostrar aquellos que son privados.

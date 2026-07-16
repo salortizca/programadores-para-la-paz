@@ -1,0 +1,25 @@
+Entidad: Curso
+Campos principales:
+- id_curso
+- titulo_curso
+- descripcion
+- duracion
+- fecha_inicio
+- fecha_final
+
+Propósito:
+Listar las oportunidades de aprendizaje a disposición de la comunidad
+
+
+Entidad: Inscripcion
+
+Campos principales:
+- id_inscripcion
+- nombre_usuario
+- curso_id
+- fecha_inscripcion
+
+Propósito: Registrar la cantidad de personas de la comunidad interesadas
+en las formaciones ofrecidas hasta tener el aforo completo.
+
+
