@@ -1,0 +1,11 @@
+Ejemplo 1:
+{
+  "tipo": "Alerta Temprana",
+  "descripcion": "Situción vulnerable de una lideresa social por amenazas por redes sociales"
+}
+
+Ejemplo 2:
+{
+  "tipo": "Evento",
+  "descripcion": "Invitación a la comunidad a participar del bingo, colectando en pro de la pavimentación de la vía de acceso al municipio"
+}
